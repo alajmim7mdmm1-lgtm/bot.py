@@ -1,1 +1,2 @@
-Create requirements.txt
+discord.py
+flask
